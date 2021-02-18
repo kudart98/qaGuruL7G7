@@ -6,16 +6,13 @@ public class SimpleTest {
 
     @Test
     void successTest() {
-        assertEquals(true, false);
+        assertEquals(true, true);
     }
 
     @Test
     void negativeTest() {
         assertEquals(true,false);
     }
-    @Test
-    void negativeTest2() {
-        assertEquals(true,false);
-    }
+
 
 }
