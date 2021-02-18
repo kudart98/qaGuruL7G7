@@ -13,4 +13,9 @@ public class SimpleTest {
     void negativeTest() {
         assertEquals(true,false);
     }
+    @Test
+    void negativeTest2() {
+        assertEquals(true,false);
+    }
+
 }
